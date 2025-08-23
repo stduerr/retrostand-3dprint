@@ -1,6 +1,6 @@
 # retrostand
 
-## A 3d-printed repro stand with crank-driven camera carriage
+## 3D-printed repro stand with crank-driven camera carriage
 
 by Stephan Dürr 2025
 
