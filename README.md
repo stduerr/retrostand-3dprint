@@ -10,4 +10,4 @@ All content in this repository (unless otherwise noted) is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ### Attribution Example
-Original work by Stepjan Dürr https://github.com/stduerr/retrostand-3dprint
+Original work by Stephan Dürr https://github.com/stduerr/retrostand-3dprint
