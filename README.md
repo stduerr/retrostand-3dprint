@@ -18,7 +18,7 @@ by Stephan Dürr 2025
 - STL files for 3D printing
 - Documentation in Markdown
 
-## Explosion view
+## Explosion view of camera carrier
  ![explosion view](assets/retrostand_explosion_view.jpg)
 
 ## License
