@@ -8,9 +8,18 @@
 
 by Stephan Dürr 2025
 
+<div>
+  <img src="assets/retrostand_total.jpg" width="30%">
+  <img src="assets/retrostand_column_top.jpg" width="30%">
+  <img src="assets/retrostand_camera_carrier.jpg" width="30%">
+</div>
+
 ## Contents
 - STL files for 3D printing
 - Documentation in Markdown
+
+## Explosion view
+ ![explosion view](assets/retrostand_explosion_view.jpg) !
 
 ## License
 
