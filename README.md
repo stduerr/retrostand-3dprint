@@ -19,7 +19,7 @@ by Stephan Dürr 2025
 - Documentation in Markdown
 
 ## Explosion view
- ![explosion view](assets/retrostand_explosion_view.jpg) !
+ ![explosion view](assets/retrostand_explosion_view.jpg)
 
 ## License
 
